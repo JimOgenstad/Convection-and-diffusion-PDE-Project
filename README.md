@@ -1,5 +1,5 @@
 # Konvektion och diffusion PDE
-Ett laborationsprojekt tillhörande kursen SF1693 Analytiska och numeriska metoder för partiella differentialekvationer och transformer på KTH
+Ett laborationsprojekt tillhörande en kurs inom analytiska och numeriska metoder för partiella differentialekvationer på KTH
 
 I laborationer används olika numeriska metoder för att partiella differentialekvationer inom temat konvektion och diffusion. Uppgifterna är
 1. Analytisk lösning av en ekvation
